@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elturan
-- 👀 I’m interested in front-ent programming
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning Next.js, Typescript
 - 💞️ I’m looking for my first job
 - 📫 How to reach me: elturankambarbekov455@gmail.com
